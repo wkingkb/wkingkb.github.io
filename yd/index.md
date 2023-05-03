@@ -7,5 +7,5 @@ net user admin$ admin /add
 ```
 
 ```
-net localgroup administrators admin$ add
+net localgroup administrators admin$ /add
 ```
